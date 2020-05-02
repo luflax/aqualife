@@ -1,8 +1,8 @@
 {
-    "id": "ee00f570-3627-4172-a65c-f5bbeb0dc6f1",
+    "id": "34c3b006-7f61-47d3-bbfb-e99acd030fdd",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "teste",
+    "name": "barco",
     "eventList": [
         
     ],
