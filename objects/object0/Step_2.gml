@@ -1,5 +1,6 @@
 
-if(chao && verticalVelocity > 0) verticalVelocity = 0;
+if(hittingVertical && verticalVelocity != 0) verticalVelocity = 0;
+if(hittingHorizontal && horizontalVelocity != 0) horizontalVelocity = 0;
 
 x += horizontalVelocity;
 y += verticalVelocity;

@@ -479,6 +479,14 @@
             }
         },
         {
+            "Key": "e826edb8-3fdf-46b4-b0bb-4b6aea439128",
+            "Value": {
+                "id": "7eff47dd-d325-4c43-8c83-d7dbd926cea3",
+                "resourcePath": "objects\\obj_collision\\obj_collision.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ead1a396-dc23-4d9a-b69c-8681943ed029",
             "Value": {
                 "id": "f988bed3-76e9-4df6-bfe4-3bbc0607a07f",
