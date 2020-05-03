@@ -1,8 +1,8 @@
 {
-    "id": "fdf8d28e-005d-4a7b-9170-e955d92b6eb6",
+    "id": "da45609f-c9c5-4152-aa63-34b473547d69",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object1",
+    "name": "BOLHA",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7a16241a-fc01-4ccc-a172-2404877232f7",
+    "spriteId": "37b25dc2-e553-4eb6-9a53-453884ae9db2",
     "visible": true
 }

@@ -1,8 +1,8 @@
 {
-    "id": "fdf8d28e-005d-4a7b-9170-e955d92b6eb6",
+    "id": "0dc9d96e-bb39-4016-9591-edae8c3baa1c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object1",
+    "name": "moreiaobj",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7a16241a-fc01-4ccc-a172-2404877232f7",
+    "spriteId": "96dd6be3-96d9-45a1-bb11-e1716fe14b84",
     "visible": true
 }

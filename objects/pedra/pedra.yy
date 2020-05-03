@@ -1,8 +1,8 @@
 {
-    "id": "fdf8d28e-005d-4a7b-9170-e955d92b6eb6",
+    "id": "a35ea20f-59e0-4120-8b93-82e686a68b5f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object1",
+    "name": "pedra",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7a16241a-fc01-4ccc-a172-2404877232f7",
+    "spriteId": "5e41cc88-914e-4b2c-801d-403c52d5d940",
     "visible": true
 }

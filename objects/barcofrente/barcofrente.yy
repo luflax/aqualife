@@ -1,8 +1,8 @@
 {
-    "id": "fdf8d28e-005d-4a7b-9170-e955d92b6eb6",
+    "id": "2b18cbb1-ec41-49a5-93a6-d8a58f5f41be",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object1",
+    "name": "barcofrente",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7a16241a-fc01-4ccc-a172-2404877232f7",
+    "spriteId": "4af4d377-a1e7-48d0-8f96-3e8b6054a341",
     "visible": true
 }
