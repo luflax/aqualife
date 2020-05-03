@@ -11,9 +11,9 @@ if(actualText < array_length_1d(dialogs)){
 		space_key_frame = 1;
 	}
 	
-	draw_sprite(spr_space_key, space_key_frame, posX + 10, posY + height - 45)
+	draw_sprite(spr_space_key, space_key_frame, posX + 10, posY + height - 30)
 	draw_set_halign(fa_left);
-	draw_text_colour(posX + 60, posY + height - 50, "Próximo", c_red,c_red,c_red,c_red,255)
+	draw_text_colour(posX + 60, posY + height - 30, "Próximo", c_red,c_red,c_red,c_red,255)
 	
 	draw_set_halign(fa_center);
 	draw_text_ext_colour(posX + width / 2, posY + 25, dialogs[actualText] + "\n", 20, width - 25, c_white,c_white,c_white,c_white,255)

@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "3cd0e531-598a-470d-aaa1-1e7c0d013c45",
+            "Value": {
+                "id": "3a295a7c-f633-47ec-aab3-3548440eeb34",
+                "resourcePath": "sprites\\enemy_attacking\\enemy_attacking.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "405ce2f7-f95b-4ec9-a769-e6a62ebac4fc",
             "Value": {
                 "id": "93f1e49f-7ce6-43d8-9dcb-e859b6a7dafc",
@@ -551,14 +559,6 @@
             }
         },
         {
-            "Key": "e3a29d5f-f81b-48b6-b817-bc49fdc21173",
-            "Value": {
-                "id": "4f2b3748-e4de-4d10-8eb2-5e53621609a2",
-                "resourcePath": "sprites\\enemy_lured\\enemy_lured.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "5d1661f3-ed7e-4887-91ae-4dc2cd444616",
@@ -588,6 +588,14 @@
                 "id": "60dd9611-bab3-4596-9ac7-ebb1eb235b3c",
                 "resourcePath": "views\\ef34afea-6605-4fed-92f7-0120e45f5c3d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f03c65d5-9b70-4b52-9806-3962c7f7f1d6",
+            "Value": {
+                "id": "a84b4776-98a4-4d8e-8667-542e90d312d6",
+                "resourcePath": "sprites\\enemy_lured\\enemy_lured.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

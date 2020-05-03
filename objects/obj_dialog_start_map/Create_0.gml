@@ -5,7 +5,7 @@ dialogs[0] = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam int
 dialogs[1] = "Nunc ut finibus neque. Aenean quis varius libero. Nullam non odio sit amet eros tempus pellentesque. Donec quis tortor aliquet";
 
 width = view_wport[0] div 3;
-height = view_hport[0] div 4;
+height = view_hport[0] div 3;
 posX = view_wport[0] / 2 - (width / 2);
 posY = view_hport[0] * 0.25;
 
