@@ -207,14 +207,6 @@
             }
         },
         {
-            "Key": "5e41cc88-914e-4b2c-801d-403c52d5d940",
-            "Value": {
-                "id": "fdf29f80-8541-4520-b711-0124b08d59a1",
-                "resourcePath": "sprites\\predra\\predra.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "608d0465-0e13-44a7-99cb-264f33094bf6",
             "Value": {
                 "id": "05ea6948-53e3-43f6-8647-1d41bd1e5fbd",
@@ -396,14 +388,6 @@
                 "id": "cbda7107-e140-411b-b4a3-9d3c049d6a97",
                 "resourcePath": "scripts\\vstick_get_x\\vstick_get_x.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "a35ea20f-59e0-4120-8b93-82e686a68b5f",
-            "Value": {
-                "id": "0ea4fba5-a698-4d8d-aa4f-5f17f6fa0661",
-                "resourcePath": "objects\\pedra\\pedra.yy",
-                "resourceType": "GMObject"
             }
         },
         {
