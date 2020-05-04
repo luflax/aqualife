@@ -159,7 +159,15 @@
             }
         },
         {
-            "Key": "3a5af38c-757d-44ae-98c0-5d4b09e14e6a",
+            "Key": "3ae9bfad-9607-4871-88cd-7b4b22f6486d",
+            "Value": {
+                "id": "d0d23a06-618b-4baa-8515-57fc033628a4",
+                "resourcePath": "sounds\\enemy_hit\\enemy_hit.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "3cd0e531-598a-470d-aaa1-1e7c0d013c45",
             "Value": {
                 "id": "0bf12749-2897-425a-9b84-8a6ed2810cc7",
                 "resourcePath": "options\\ps4\\options_ps4.yy",
@@ -623,7 +631,15 @@
             }
         },
         {
-            "Key": "b1bdf0c9-e065-4da3-a8d4-42299cf17d84",
+            "Key": "b75c66dc-1650-4cd7-b124-25eb9eb5539d",
+            "Value": {
+                "id": "fda250a2-1aa2-4eb2-863f-ecbd0a49e899",
+                "resourcePath": "sprites\\mutant_walking\\mutant_walking.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bc5e893c-01b8-4024-8820-ff7217994f58",
             "Value": {
                 "id": "6a8a68c6-2f7a-4868-b31c-364275e0cab5",
                 "resourcePath": "sprites\\sprite11\\sprite11.yy",
@@ -671,7 +687,15 @@
             }
         },
         {
-            "Key": "c389082c-fe43-4e3f-86e9-2bec60530bcb",
+            "Key": "c3b29132-76b8-4139-a4b2-eca7a2b1c424",
+            "Value": {
+                "id": "eb21f530-485c-4012-9aa5-f41ccbad6dc4",
+                "resourcePath": "sprites\\mutant_idle\\mutant_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ca29f93b-0053-4cc1-bb8f-341910acbe7b",
             "Value": {
                 "id": "99c5f5df-efc3-4f6e-814c-b7601d749425",
                 "resourcePath": "objects\\estrela\\estrela.yy",
