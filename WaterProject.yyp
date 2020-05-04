@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "3ae9bfad-9607-4871-88cd-7b4b22f6486d",
+            "Value": {
+                "id": "d0d23a06-618b-4baa-8515-57fc033628a4",
+                "resourcePath": "sounds\\enemy_hit\\enemy_hit.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "3cd0e531-598a-470d-aaa1-1e7c0d013c45",
             "Value": {
                 "id": "3a295a7c-f633-47ec-aab3-3548440eeb34",
@@ -455,6 +463,14 @@
             }
         },
         {
+            "Key": "b75c66dc-1650-4cd7-b124-25eb9eb5539d",
+            "Value": {
+                "id": "fda250a2-1aa2-4eb2-863f-ecbd0a49e899",
+                "resourcePath": "sprites\\mutant_walking\\mutant_walking.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bc5e893c-01b8-4024-8820-ff7217994f58",
             "Value": {
                 "id": "47c345c8-716c-4760-8c6d-ac8b42ac6fab",
@@ -476,6 +492,14 @@
                 "id": "5003e36f-ce5d-4b26-a2f3-baa515641a6f",
                 "resourcePath": "scripts\\vstick_step\\vstick_step.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c3b29132-76b8-4139-a4b2-eca7a2b1c424",
+            "Value": {
+                "id": "eb21f530-485c-4012-9aa5-f41ccbad6dc4",
+                "resourcePath": "sprites\\mutant_idle\\mutant_idle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -602,7 +626,7 @@
             "Key": "f152ba7f-c5a5-4f53-b753-be5c90bfe0f2",
             "Value": {
                 "id": "559a8721-b254-4047-b5ab-02069dc451f7",
-                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourcePath": "sprites\\sprite01\\sprite01.yy",
                 "resourceType": "GMSprite"
             }
         },

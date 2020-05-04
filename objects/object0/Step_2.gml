@@ -5,6 +5,11 @@ if(!global.movementBlock){
 
 	x += horizontalVelocity;
 	y += verticalVelocity;
+	
+	if(horizontalVelocity != 0 || verticalVelocity != 0)
+		sprite_index = mutant_walking
+	else
+		sprite_index = mutant_idle
 
 
 	if(horizontalVelocity != 0)

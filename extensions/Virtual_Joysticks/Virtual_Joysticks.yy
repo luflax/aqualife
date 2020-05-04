@@ -1,7 +1,7 @@
 {
     "id": "a7cac251-58d0-4537-828b-cd1ce965ff60",
     "modelName": "GMExtension",
-    "mvc": "1.2",
+    "mvc": "1.0",
     "name": "Virtual_Joysticks",
     "IncludedResources": [
         "Scripts\\Virtual Joystick\\vstick_set_frontsprite",
@@ -41,7 +41,6 @@
     "copyToTargets": -1,
     "date": "2020-42-02 10:04:14",
     "description": "",
-    "exportToGame": true,
     "extensionName": "",
     "files": [
         
@@ -62,12 +61,9 @@
     "maccompilerflags": "",
     "maclinkerflags": "",
     "macsourcedir": "",
-    "options": null,
-    "optionsFile": "options.json",
     "packageID": "com.purewantfun.vstick",
     "productID": "",
     "sourcedir": "",
-    "supportedTargets": -1,
     "tvosProps": false,
     "tvosSystemFrameworkEntries": [
         
