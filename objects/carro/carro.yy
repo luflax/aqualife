@@ -1,8 +1,8 @@
 {
-    "id": "69da8957-fe00-4617-8c2a-5720939081c7",
+    "id": "7f84722e-f70f-4ca8-affe-4b7d849573e4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object4",
+    "name": "carro",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "92088569-2677-403c-a9d8-345ff93c30ed",
     "visible": true
 }

@@ -1,8 +1,8 @@
 {
-    "id": "69da8957-fe00-4617-8c2a-5720939081c7",
+    "id": "1243cb31-2d89-4d06-a2d7-6c9f7b8fa4ea",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object4",
+    "name": "lixos",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "4712cba7-2037-46c7-8200-8e6a9e283ef6",
     "visible": true
 }
