@@ -1,8 +1,8 @@
 actualText = 0;
 global.movementBlock = true;
 
-dialogs[0] = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam interdum justo eu felis venenatis sollicitudin at ac nulla. Nunc nisl lacus, volutpat et nisi vel, sodales sollicitudin mi.";
-dialogs[1] = "Nunc ut finibus neque. Aenean quis varius libero. Nullam non odio sit amet eros tempus pellentesque. Donec quis tortor aliquet";
+dialogs[0] = "A acidificação dos oceanos é um problema que ocorre por conta do excesso de CO2 na água. Como consequencia, muitos seres vivos como os mariscos, algas, corais, entre outros, acabam morrendo com o alto PH da água.";
+dialogs[1] = "O Mutante adquiriu a habilidade Explosão de CO2, contamine a água próxima aos seres vivos espalhados pelo mapa para causar sua morte, após isso vá para o final da fase. Cuidado com os mergulhadores que querem acabar com voce!";
 
 width = view_wport[0] div 3;
 height = view_hport[0] div 3;
