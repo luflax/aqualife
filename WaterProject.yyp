@@ -82,7 +82,7 @@
             "Key": "27c415b4-c930-4d02-987b-53347b477967",
             "Value": {
                 "id": "14a99bf4-d69a-4753-a973-ec03ad2b0f4e",
-                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourcePath": "rooms\\luiz2\\luiz2.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -146,7 +146,7 @@
             "Key": "405ce2f7-f95b-4ec9-a769-e6a62ebac4fc",
             "Value": {
                 "id": "93f1e49f-7ce6-43d8-9dcb-e859b6a7dafc",
-                "resourcePath": "objects\\object2\\object2.yy",
+                "resourcePath": "objects\\obj_camera\\obj_camera.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -202,7 +202,7 @@
             "Key": "608d0465-0e13-44a7-99cb-264f33094bf6",
             "Value": {
                 "id": "05ea6948-53e3-43f6-8647-1d41bd1e5fbd",
-                "resourcePath": "objects\\object0\\object0.yy",
+                "resourcePath": "objects\\mutant\\mutant.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -242,7 +242,7 @@
             "Key": "794648dc-99be-42e6-a8a6-96b6c2eb946a",
             "Value": {
                 "id": "fee9f953-70a3-4e22-9c2c-531050dee593",
-                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourcePath": "sprites\\spr_portal\\spr_portal.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -258,7 +258,7 @@
             "Key": "7a16241a-fc01-4ccc-a172-2404877232f7",
             "Value": {
                 "id": "56018dea-16c2-465c-b438-3251ad1ab1ce",
-                "resourcePath": "sprites\\sprite1\\sprite1.yy",
+                "resourcePath": "sprites\\spr_bloco_verde\\spr_bloco_verde.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -386,7 +386,7 @@
             "Key": "a37f7c41-aaae-4721-ade9-cad72e75b5b3",
             "Value": {
                 "id": "18a173cf-e337-409c-bc99-81d1decc8183",
-                "resourcePath": "objects\\object4\\object4.yy",
+                "resourcePath": "objects\\portal\\portal.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -522,7 +522,7 @@
             "Key": "cb884475-379f-4a6d-9c48-2bb0899d5d88",
             "Value": {
                 "id": "bca64345-aadf-4e7b-ac86-e7f7c6b42261",
-                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourcePath": "rooms\\luiz1\\luiz1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -546,7 +546,7 @@
             "Key": "d47412b6-269e-4ae4-8f9b-9ca5576cbbf1",
             "Value": {
                 "id": "d13bc4b8-ee25-4c25-baf9-2f3a2f401794",
-                "resourcePath": "objects\\object3\\object3.yy",
+                "resourcePath": "objects\\enemy\\enemy.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -623,14 +623,6 @@
             }
         },
         {
-            "Key": "f152ba7f-c5a5-4f53-b753-be5c90bfe0f2",
-            "Value": {
-                "id": "559a8721-b254-4047-b5ab-02069dc451f7",
-                "resourcePath": "sprites\\sprite01\\sprite01.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "98518a6f-cd1d-4410-b0bf-7dbfbe9af353",
@@ -650,7 +642,7 @@
             "Key": "fdf8d28e-005d-4a7b-9170-e955d92b6eb6",
             "Value": {
                 "id": "2334d530-f37a-4bf7-8cde-611d7e60a83a",
-                "resourcePath": "objects\\object1\\object1.yy",
+                "resourcePath": "objects\\bloco_verde\\bloco_verde.yy",
                 "resourceType": "GMObject"
             }
         }

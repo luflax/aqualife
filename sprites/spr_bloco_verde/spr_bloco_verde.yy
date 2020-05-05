@@ -2,7 +2,7 @@
     "id": "7a16241a-fc01-4ccc-a172-2404877232f7",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite1",
+    "name": "spr_bloco_verde",
     "For3D": false,
     "HTile": false,
     "VTile": false,

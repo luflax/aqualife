@@ -2,7 +2,7 @@
     "id": "fdf8d28e-005d-4a7b-9170-e955d92b6eb6",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object1",
+    "name": "bloco_verde",
     "eventList": [
         
     ],

@@ -2,7 +2,7 @@
     "id": "794648dc-99be-42e6-a8a6-96b6c2eb946a",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite3",
+    "name": "spr_portal",
     "For3D": false,
     "HTile": false,
     "VTile": false,

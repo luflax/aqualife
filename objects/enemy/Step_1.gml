@@ -1,4 +1,4 @@
-var player = instance_find(object0, 0);
+var player = instance_find(mutant, 0);
 distance = distance_to_object(player);
 if(distance < (isFollowing ? 400 : 200) && 
 	collision_line(x,y,player.x, player.y, obj_collision,false,true) == noone){
@@ -16,7 +16,7 @@ if(distance < (isFollowing ? 400 : 200) &&
 	}
 	
 	if(current_time > lastAttack + 1000){
-		if(distance < 2 && collision_circle(x, y, 5, object0, true, false))
+		if(distance < 2 && collision_circle(x, y, 5, mutant, true, false))
 		{
 			global.remaining_hearts--
 			lastAttack = current_time
