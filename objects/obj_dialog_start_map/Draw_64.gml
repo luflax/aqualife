@@ -21,6 +21,7 @@ if(actualText < array_length_1d(dialogs)){
 else{
 	global.movementBlock = false;
 }
-if(keyboard_check_pressed(vk_space)){
+if(keyboard_check_pressed(vk_space) && actualText < array_length_1d(dialogs)){
+	audio_play_sound(click, 2, false);
 	actualText++
 }
