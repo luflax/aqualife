@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0bad05c0-07b2-4d73-bf2f-608ba70fe107",
+            "Value": {
+                "id": "dfb2b93c-7c9a-4a8e-907d-f5285aaae240",
+                "resourcePath": "sounds\\underwater\\underwater.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0c92cb4f-8d6b-44c8-a143-2a990d1d7ea8",
             "Value": {
                 "id": "dfc3b306-79d8-4688-9fc9-53ef27b33301",
@@ -127,6 +135,14 @@
             }
         },
         {
+            "Key": "1e9bd566-c5fe-4f11-9dd9-e1b5436be0c8",
+            "Value": {
+                "id": "c6872770-1578-4971-9a85-0cd5080dff9e",
+                "resourcePath": "shaders\\shd_full_white\\shd_full_white.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "2077d30b-544f-4a05-8f6e-41352a72d1a8",
             "Value": {
                 "id": "27b4a7d7-84a0-47d3-aed0-99db8120ff05",
@@ -148,6 +164,14 @@
                 "id": "10eecfed-f75a-4204-9a1a-b23746e616a1",
                 "resourcePath": "objects\\porta\\porta.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "28916fd1-4a3e-4eed-98b0-612ba4312f7a",
+            "Value": {
+                "id": "003f0625-c323-416a-b840-e97929857613",
+                "resourcePath": "sprites\\arrow_menu\\arrow_menu.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -180,6 +204,14 @@
                 "id": "969972b4-4d07-47a0-aa4f-243a260e50ca",
                 "resourcePath": "sprites\\spr_mato_alt\\spr_mato_alt.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "31df5a46-5514-424b-a023-aa234dfe1a79",
+            "Value": {
+                "id": "6aa412ff-fc00-4bb2-a209-5cd58a9f5fa9",
+                "resourcePath": "views\\31df5a46-5514-424b-a023-aa234dfe1a79.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -511,6 +543,14 @@
             }
         },
         {
+            "Key": "8f39d8ca-85f0-49ea-8ec4-2443ae89eb90",
+            "Value": {
+                "id": "31efa4fe-35d7-4291-a81d-443f932dca2a",
+                "resourcePath": "objects\\menu_ui\\menu_ui.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8f7553f4-44c5-4d7e-9ffa-dcf9350dc721",
             "Value": {
                 "id": "64391152-e5b7-4349-85f3-27bc5045d39e",
@@ -540,6 +580,14 @@
                 "id": "04099ae6-42b9-4710-bf26-4f0efcd970bc",
                 "resourcePath": "rooms\\fase2\\fase2.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "939fde9b-e31c-4dd6-8663-6d156a178693",
+            "Value": {
+                "id": "87c631cc-76b8-41f5-8572-c5c865bc3e8e",
+                "resourcePath": "sounds\\gas_attack\\gas_attack.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -647,6 +695,22 @@
             }
         },
         {
+            "Key": "b0ebb722-8268-4bfa-8d5e-00d4f0fce092",
+            "Value": {
+                "id": "403e4542-d04a-47f6-902b-4b536dcf52ce",
+                "resourcePath": "sounds\\click\\click.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "b487b681-a64f-49e7-9bc7-767a8815b557",
+            "Value": {
+                "id": "34f0f17b-8f29-4b77-b362-002679bc87d7",
+                "resourcePath": "rooms\\menu\\menu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "b4ca080b-295f-45af-a9f0-7f757c7a26df",
             "Value": {
                 "id": "222971f5-3633-4535-b8d5-4679bbc8781d",
@@ -668,6 +732,14 @@
                 "id": "fda250a2-1aa2-4eb2-863f-ecbd0a49e899",
                 "resourcePath": "sprites\\mutant_walking\\mutant_walking.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bb518776-418e-406b-a7dd-7cecce156c8e",
+            "Value": {
+                "id": "52276b8b-94fe-44dd-a61c-bbe10dba82c5",
+                "resourcePath": "scripts\\GetAllTasksByRoom\\GetAllTasksByRoom.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -708,6 +780,22 @@
                 "id": "a03368b8-f142-4f29-a95f-c30ce81114ac",
                 "resourcePath": "scripts\\DrawDialogBox\\DrawDialogBox.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "cb62cb67-4537-4be3-929a-9f51dcc9077e",
+            "Value": {
+                "id": "f523a7db-2ace-46f1-a6bb-ce192d5f43eb",
+                "resourcePath": "sounds\\enemy_hitted\\enemy_hitted.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "cb884475-379f-4a6d-9c48-2bb0899d5d88",
+            "Value": {
+                "id": "bca64345-aadf-4e7b-ac86-e7f7c6b42261",
+                "resourcePath": "rooms\\fase3\\fase3.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -807,11 +895,27 @@
             }
         },
         {
+            "Key": "e2d3c38a-5e69-41ce-8ec6-d01f8dcc1f8c",
+            "Value": {
+                "id": "c0da0cc6-fdf0-4315-991d-6809962e1990",
+                "resourcePath": "fonts\\font_menu\\font_menu.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "5d1661f3-ed7e-4887-91ae-4dc2cd444616",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e5c243fb-6cc8-4879-8f18-8f5749505c3c",
+            "Value": {
+                "id": "8db38414-2dc7-4e75-9f7d-47ad76f77f6c",
+                "resourcePath": "rooms\\faseMock\\faseMock.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -912,7 +1016,8 @@
         }
     ],
     "script_order": [
-        "ca29f93b-0053-4cc1-bb8f-341910acbe7b"
+        "ca29f93b-0053-4cc1-bb8f-341910acbe7b",
+        "bb518776-418e-406b-a7dd-7cecce156c8e"
     ],
     "tutorial": ""
 }

@@ -5,4 +5,8 @@ if(!global.movementBlock){
 	if(dir != 0){
 	image_xscale = dir > 90 && dir < 270 ? 1 : -1;
 	}
+	
+	
+	if(markedToDie)
+		instance_destroy()
 }
