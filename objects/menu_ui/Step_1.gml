@@ -19,7 +19,7 @@ if(keyboard_check_pressed(vk_up)){
 if(keyboard_check_pressed(vk_space)){
 	audio_play_sound(click, 2, false);
 	if(selectedItem == 0)
-		room_goto(fase3)
+		room_goto(fase2)
 		
 	if(selectedItem == 1)
 		game_end()

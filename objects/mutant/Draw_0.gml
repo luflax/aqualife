@@ -9,5 +9,6 @@ draw_self();
 
 if(renderAttack){
 	renderAttack = false
-	effect_create_below(ef_explosion, x, y, 1, make_color_rgb(114, 247, 152));
+	if(room == fase3)
+		effect_create_below(ef_explosion, x, y, 1, make_color_rgb(114, 247, 152));
 }     

@@ -17,25 +17,42 @@ if(!global.movementBlock){
 	if(current_time > lastAttack + 500 && keyboard_check_pressed(vk_space)){
 		renderAttack = true
 		lastAttack = current_time
-		audio_play_sound(gas_attack, 2, false);
-		var playerX = x
-		var playerY = y
-		with(enemy){
-			if(point_in_circle(x, y, playerX, playerY, 60)){
-				healthPoints--
-				last_hit = current_time
-				audio_play_sound(enemy_hitted, 5, false);
-			}	
+		var playerAngle = image_xscale
+		
+		if(room == fase2){
+			var playerX = x
+			var playerY = y
+			
+			var trashInstance = instance_create_depth(x, y, 0, obj_trash)
+			with (trashInstance)
+		    {
+			    spd = 4
+			    dir = playerAngle == 1 ? 360 : 180
+		    }
 		}
-		with(obj_coral){
-			if(point_in_circle(x, y, playerX, playerY, 60)){
-				instance_destroy()
-			}	
-		}
-		with(obj_alga){
-			if(point_in_circle(x, y, playerX, playerY, 60)){
-				instance_destroy()
-			}	
+		if(room == fase3){
+			var playerX = x
+			var playerY = y
+			with(enemy){
+				if(point_in_circle(x, y, playerX, playerY, 60)){
+					healthPoints--
+					last_hit = current_time
+					audio_play_sound(enemy_hitted, 5, false);
+				}	
+			}
+		
+			audio_play_sound(gas_attack, 2, false);
+			
+			with(obj_coral){
+				if(point_in_circle(x, y, playerX, playerY, 60)){
+					instance_destroy()
+				}	
+			}
+			with(obj_alga){
+				if(point_in_circle(x, y, playerX, playerY, 60)){
+					instance_destroy()
+				}	
+			}
 		}
 	}
 }
