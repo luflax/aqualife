@@ -431,6 +431,14 @@
             }
         },
         {
+            "Key": "a5aad8e7-923e-4c71-9c9c-f2c5a0a216b8",
+            "Value": {
+                "id": "65600d41-fc39-45eb-8b72-b56679d02804",
+                "resourcePath": "objects\\submarino\\submarino.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a62c139c-01fa-4ad6-b782-693eb1f91a76",
             "Value": {
                 "id": "6c4448e8-ead3-4cdd-9044-ebef2aae8920",
@@ -548,6 +556,14 @@
                 "id": "3c3ca6d1-f9ba-42aa-8055-9b19a03dd068",
                 "resourcePath": "views\\cf75d7e6-38d0-4750-aa00-66b6810338b8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d372b544-103c-4785-a8a5-a3e03734f928",
+            "Value": {
+                "id": "6bc4907b-39ed-4c06-bf09-7a7589ddc641",
+                "resourcePath": "sprites\\sprite25\\sprite25.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
