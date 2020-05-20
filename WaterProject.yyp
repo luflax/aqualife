@@ -575,6 +575,14 @@
             }
         },
         {
+            "Key": "d591b472-a163-41fd-85f4-50f381bd775d",
+            "Value": {
+                "id": "1cf0f632-42b8-4560-bca8-41317a93e363",
+                "resourcePath": "objects\\patrick\\patrick.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d5930028-c426-420f-b91f-f9d0c51309d9",
             "Value": {
                 "id": "37473521-9d3a-40c1-9a4e-71f0eb8201ee",
