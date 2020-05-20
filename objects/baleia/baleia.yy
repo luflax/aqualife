@@ -1,8 +1,8 @@
 {
-    "id": "d591b472-a163-41fd-85f4-50f381bd775d",
+    "id": "f0d032bd-61fb-408a-949f-12c4701b5522",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "patrick",
+    "name": "baleia",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5f3c435b-6f43-493e-8b1d-897c4c3ddf9c",
+    "spriteId": "aa9d3234-3c1d-4a59-9d21-b10f62331bb0",
     "visible": true
 }

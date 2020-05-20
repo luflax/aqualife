@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "5f3c435b-6f43-493e-8b1d-897c4c3ddf9c",
+            "Value": {
+                "id": "81fe8f81-04d7-4e73-b508-6f10a9b36e24",
+                "resourcePath": "sprites\\sprite26\\sprite26.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "608d0465-0e13-44a7-99cb-264f33094bf6",
             "Value": {
                 "id": "05ea6948-53e3-43f6-8647-1d41bd1e5fbd",
@@ -463,6 +471,14 @@
             }
         },
         {
+            "Key": "aa9d3234-3c1d-4a59-9d21-b10f62331bb0",
+            "Value": {
+                "id": "9ddf82b9-b4b0-4d60-94df-78241e8418a4",
+                "resourcePath": "sprites\\baleiaa\\baleiaa.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b0990289-ac94-4e84-bacf-0de5bf0d2b4f",
             "Value": {
                 "id": "11e0c67a-b76b-4e83-96d3-79f76eb25c6a",
@@ -519,6 +535,14 @@
             }
         },
         {
+            "Key": "c269e271-1508-47c5-beb6-dc7913c65600",
+            "Value": {
+                "id": "2c60ac49-31c6-4ee9-92fc-6a2269fc185c",
+                "resourcePath": "sprites\\burger\\burger.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c3b29132-76b8-4139-a4b2-eca7a2b1c424",
             "Value": {
                 "id": "eb21f530-485c-4012-9aa5-f41ccbad6dc4",
@@ -556,6 +580,14 @@
                 "id": "3c3ca6d1-f9ba-42aa-8055-9b19a03dd068",
                 "resourcePath": "views\\cf75d7e6-38d0-4750-aa00-66b6810338b8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d1d6ce89-e2eb-4e67-9aef-0b3f3c725e4c",
+            "Value": {
+                "id": "b431e03c-0227-44c2-a515-b037523840ef",
+                "resourcePath": "objects\\object23\\object23.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -644,6 +676,14 @@
                 "id": "a84b4776-98a4-4d8e-8667-542e90d312d6",
                 "resourcePath": "sprites\\enemy_lured\\enemy_lured.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f0d032bd-61fb-408a-949f-12c4701b5522",
+            "Value": {
+                "id": "def09e31-bb4f-4418-b9dc-16b8490ef125",
+                "resourcePath": "objects\\baleia\\baleia.yy",
+                "resourceType": "GMObject"
             }
         },
         {
