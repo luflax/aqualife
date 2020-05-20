@@ -2,7 +2,7 @@
     "id": "6436ea83-aee0-47c8-bdc4-98c1d454fad0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object25",
+    "name": "tartarugaa",
     "eventList": [
         
     ],
