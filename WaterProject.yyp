@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "33e2ae06-93e7-4f2e-b908-023e1cd0d104",
+            "Value": {
+                "id": "cdaee46d-0f97-47ae-ab28-3734f2ddc940",
+                "resourcePath": "sprites\\tartaruga\\tartaruga.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "35c5e959-a455-476b-852d-6b4cb901a049",
             "Value": {
                 "id": "b24a9c48-b5d4-4285-8bf7-3934fffe577a",
@@ -243,6 +251,14 @@
             "Value": {
                 "id": "05ea6948-53e3-43f6-8647-1d41bd1e5fbd",
                 "resourcePath": "objects\\mutant\\mutant.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6436ea83-aee0-47c8-bdc4-98c1d454fad0",
+            "Value": {
+                "id": "35517379-640f-4a02-beaa-4f39c632f1c2",
+                "resourcePath": "objects\\object25\\object25.yy",
                 "resourceType": "GMObject"
             }
         },
