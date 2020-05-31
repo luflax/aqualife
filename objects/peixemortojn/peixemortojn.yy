@@ -1,8 +1,8 @@
 {
-    "id": "a5aad8e7-923e-4c71-9c9c-f2c5a0a216b8",
+    "id": "7360c971-ad3d-4050-a8ac-b9de850a8852",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "submarino",
+    "name": "peixemortojn",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "d372b544-103c-4785-a8a5-a3e03734f928",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
