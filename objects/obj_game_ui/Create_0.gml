@@ -5,14 +5,6 @@ global.isHardCore = false
 
 totalInstances = GetAllTasksByRoom(room)
 tasksText = ""
-switch(room){
-	case fase2:
-		tasksText = "Maquinas para destruir"
-		break
-	case fase3:
-		tasksText = "Seres vivos para destruir"
-		break
-}
-firstRoom = room
+firstRoom = 0
 
 audio_play_sound(underwater, 15, true);

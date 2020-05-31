@@ -1,5 +1,6 @@
 spd = 0
 dir = 0
+dropY = 0
 
 life_start = current_time
 markedToDie = false
