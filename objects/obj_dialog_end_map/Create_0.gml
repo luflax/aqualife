@@ -1,12 +1,12 @@
-actualText = 999;
-global.movementBlock = true;
+actualText = 0;
+shouldDisplay = false
+playedSound = false
 
-dialogs[0] = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam interdum justo eu felis venenatis sollicitudin at ac nulla. Nunc nisl lacus, volutpat et nisi vel, sodales sollicitudin mi.";
-dialogs[1] = "Nunc ut finibus neque. Aenean quis varius libero. Nullam non odio sit amet eros tempus pellentesque. Donec quis tortor aliquet";
+dialogs[0] = "Parabens, voce destruiu todas as maquinas, agora a poluicao marinha continuara a crescer e em breve a humanidade ira sofrer por isso, avance para encontrar sua proxima tarefa!";
 
-width = display_get_gui_width() div 3;
-height = display_get_gui_height() div 4;
-posX = display_get_gui_width() / 2 - (width / 2);
-posY = display_get_gui_height() * 0.25;
+width = view_wport[0] div 3;
+height = view_hport[0] div 3;
+posX = view_wport[0] / 2 - (width / 2);
+posY = view_hport[0] * 0.25;
 
 draw_set_font(font0)
