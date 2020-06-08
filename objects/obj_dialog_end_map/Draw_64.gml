@@ -13,10 +13,26 @@ if(shouldDisplay){
 		global.movementBlock = false;
 		switch(room){
 			case fase2:
+				with(obj_game_ui){
+					win_level = 1
+				}
 				room_goto(fase3);
+				break
+			case fase3:
+				with(obj_game_ui){
+					win_level = 2
+				}
+				room_goto(fase4);
+				break
+			case fase4:
+				with(obj_game_ui){
+					win_level = 3
+				}
+				room_goto(cutsceneFinal)
+				break
 		}
 	}
-	if(keyboard_check_pressed(vk_space)){
+	if((keyboard_check_pressed(vk_space) || gamepad_button_check_pressed(0, gp_face1))){
 		actualText++
 	}
 }

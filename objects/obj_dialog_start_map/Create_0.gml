@@ -12,6 +12,10 @@ switch(room){
 		dialogs[0] = "A acidificação dos oceanos é um problema que ocorre por conta do excesso de CO2 na água. Como consequencia, muitos seres vivos como os mariscos, algas, corais, entre outros, acabam morrendo com o alto PH da água.";
 		dialogs[1] = "O Mutante adquiriu a habilidade Explosão de CO2, contamine a água próxima aos seres vivos espalhados pelo mapa para causar sua morte, após isso vá para o final da fase. Cuidado com os mergulhadores que querem acabar com o mutante!";
 		break
+	case fase4:
+		dialogs[0] = "A pesca ilegal é um problema que afeta o ecossistema marinho de diversas formas, quandos animais são tirados em grande quantidade de seu habitat ocorre o desbalanceamento daquele espaço e em muitas vezes até a extinção dos animais.";
+		dialogs[1] = "O Mutante adquiriu a habilidade Mordidão, coma todos os animais espalhados pelo mapa para destruir o ecossistema e alimentar o mutante, cuidado com os mergulhadores que tentarão extinguir o mutante.";
+		break
 }
 
 width = view_wport[0] div 3;

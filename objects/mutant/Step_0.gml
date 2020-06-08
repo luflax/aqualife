@@ -5,9 +5,14 @@ right = keyboard_check(vk_right);
 up = keyboard_check(vk_up);
 down = keyboard_check(vk_down);
 
-horizontalVelocity = (right - left) * maxHorizontalVelocity;
+var axish = gamepad_axis_value(0, gp_axislh);
+var axisv = gamepad_axis_value(0, gp_axislv);
 
-verticalVelocity = (down - up) * maxVerticalVelocity;
 
-hittingVertical = place_meeting(x, y + verticalVelocity * 1.5, obj_collision);
-hittingHorizontal = place_meeting(x + horizontalVelocity * 1.2, y, obj_collision);
+horizontalVelocity = (axish != 0 ? axish : (right - left)) * maxHorizontalVelocity;
+
+verticalVelocity = (axisv != 0 ? axisv : (down - up)) * maxVerticalVelocity;
+
+hittingVertical = place_meeting(x, y + verticalVelocity, obj_collision);
+hittingHorizontal = place_meeting(x + horizontalVelocity, y, obj_collision);
+//1.5 1.2

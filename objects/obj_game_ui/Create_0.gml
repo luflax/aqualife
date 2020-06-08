@@ -7,4 +7,7 @@ totalInstances = GetAllTasksByRoom(room)
 tasksText = ""
 firstRoom = 0
 
-audio_play_sound(underwater, 15, true);
+underwatersound = audio_play_sound(underwater, 15, true);
+
+isCutscene = false
+win_level = 0

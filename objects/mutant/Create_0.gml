@@ -8,3 +8,5 @@ chao = false;
 
 renderAttack = false
 lastAttack = 0
+
+lastBite = 0

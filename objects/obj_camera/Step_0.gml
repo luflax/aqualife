@@ -1,5 +1,7 @@
 x += (xTo - x) / 25;
-y += (yTo - y) / 25;
+
+if(!onlyHorizontal)
+	y += (yTo - y) / 25;
 
 if(follow != noone)
 {
